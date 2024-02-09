@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLoginApp</string>
+    <string name="icon_password_visible">Password Visible</string>
+    <string name="icon_password_hidden">Password Hidden</string>
+</resources>
